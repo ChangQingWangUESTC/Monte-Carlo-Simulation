@@ -5,7 +5,6 @@ Matlab functions
   * Multiple spin echo R2: **.m
   
 Matlab scripts
-
 We provide the Matlab scripts that generate the figures in the paper, along with the source data to run them. For convenience, in some cases we also provide the precomputed data to directly generate the figures.
   * Script to generate Figure 1: **.m
   * Script to generate Figure 2: **.m
