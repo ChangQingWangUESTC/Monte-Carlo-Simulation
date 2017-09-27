@@ -3,7 +3,7 @@ Matlab functions
   * R2*: **.m
   * Single spin echo R2: **.m
   * Multiple spin echo R2: **.m
-  
+
 Matlab scripts
 We provide the Matlab scripts that generate the figures in the paper, along with the source data to run them.
   * Script to generate Figure 1: **.m
